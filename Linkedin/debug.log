@@ -1,0 +1,1 @@
+[0911/095659.037:ERROR:file_io_win.cc(179)] CreateFile C:\Users\danda\AppData\Local\Temp\scoped_dir9764_145524128\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
